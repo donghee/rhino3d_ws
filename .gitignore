@@ -1,0 +1,6 @@
+*.stl
+__pycache__/
+*.pyc
+*.3dmbak
+*.rhl
+*.ghbak
